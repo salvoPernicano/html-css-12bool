@@ -1,0 +1,42 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.container{
+    /* border: 1px solid red; */
+    height: 100vh;
+}
+
+.row{
+    height: calc(100% / 18);
+}
+
+/* [class*="col-"] {
+    border: 1px solid rgb(158, 154, 154);
+} */
+
+.red{
+    background-color: red;
+}
+
+.black{
+    background-color: black;
+}
+
+.beige{
+    background-color: bisque;
+}
+
+.blue{
+    background-color: rgb(16, 92, 206);
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.brown{
+    background-color: brown;
+}
